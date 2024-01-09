@@ -1,0 +1,1 @@
+[{"unit_id":"unit_0","token_input":"ABCDEFGHILM","token_output":"MNOPQRSTUVZ","documents_number":1,"documents_params":{"identifier_1":{"task_type":"Main","allow_back":true,"check_gold":{"message":null,"jump":null},"reset_jump":false}},"documents":[{"id":"identifier_1","text":"Lorem ipsum dolor sit amet"}]}]

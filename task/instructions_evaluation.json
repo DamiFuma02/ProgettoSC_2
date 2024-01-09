@@ -1,0 +1,30 @@
+{
+    "element": {
+        "caption": "Caption",
+        "label": "Label",
+        "text": "Instruction text"
+    },
+    "instructions": [
+        {
+            "caption": "Evaluation Instructions",
+            "text": "<p>Valutare la seguente recensione</p>"
+        },
+        {
+            "caption": "Evaluation Instructions",
+            "text": "<p>Valutare la seguente recensione</p>"
+        },
+        {
+            "caption": "Evaluation Instructions",
+            "text": "<p>Valutare la seguente recensione</p>"
+        },
+        {
+            "caption": "Evaluation Instructions",
+            "text": "<p>Valutare la seguente recensione</p>"
+        },
+        {
+            "caption": "Evaluation Instructions",
+            "text": "<p>Valutare la seguente recensione</p>"
+        }
+        
+    ]
+}
