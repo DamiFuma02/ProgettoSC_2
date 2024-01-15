@@ -85,17 +85,12 @@
                     "value": "2"
                 }
             ],
-            "instructions": {
-                "caption": "Caption",
-                "label": "Label",
-                "text": "Instruction text"
-            }
+            "instructions": false
         },
         "style": {
             "position": "middle",
-            "orientation": "vertical",
-            "type": "list",
-            "separator": false
+            "separator": true,
+            "type": "matrix"
         }
     },
     {
@@ -110,7 +105,6 @@
         "scale": {
             "type": "categorical",
             "multiple_selection": false,
-            "instructions": false,
             "mapping": [
                 {
                     "label": "Completely Disagree",
@@ -137,9 +131,14 @@
                     "description": "",
                     "value": "2"
                 }
-            ]
+            ],
+            "instructions": false
         },
-        "style": false
+        "style": {
+            "position": "middle",
+            "separator": true,
+            "type": "matrix"
+        }
     },
     {
         "name": "precision",
@@ -153,7 +152,6 @@
         "scale": {
             "type": "categorical",
             "multiple_selection": false,
-            "instructions": false,
             "mapping": [
                 {
                     "label": "Completely Disagree",
@@ -180,9 +178,14 @@
                     "description": "",
                     "value": "2"
                 }
-            ]
+            ],
+            "instructions": false
         },
-        "style": false
+        "style": {
+            "position": "middle",
+            "separator": true,
+            "type": "matrix"
+        }
     },
     {
         "name": "completeness",
@@ -196,7 +199,6 @@
         "scale": {
             "type": "categorical",
             "multiple_selection": false,
-            "instructions": false,
             "mapping": [
                 {
                     "label": "Completely Disagree",
@@ -223,9 +225,14 @@
                     "description": "",
                     "value": "2"
                 }
-            ]
+            ],
+            "instructions": false
         },
-        "style": false
+        "style": {
+            "position": "middle",
+            "separator": true,
+            "type": "matrix"
+        }
     },
     {
         "name": "informativeness",
@@ -239,7 +246,6 @@
         "scale": {
             "type": "categorical",
             "multiple_selection": false,
-            "instructions": false,
             "mapping": [
                 {
                     "label": "Completely Disagree",
@@ -266,9 +272,14 @@
                     "description": "",
                     "value": "2"
                 }
-            ]
+            ],
+            "instructions": false
         },
-        "style": false
+        "style": {
+            "position": "middle",
+            "separator": true,
+            "type": "matrix"
+        }
     },
     {
         "name": "confidence",
@@ -284,10 +295,10 @@
         "url": false,
         "scale": {
             "type": "interval",
-            "instructions": false,
             "min": 1,
             "max": 100,
-            "step": 1
+            "step": 1,
+            "instructions": false
         },
         "style": {
             "position": "bottom",
