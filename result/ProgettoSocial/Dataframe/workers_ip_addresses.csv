@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ddafbea23cb81c3fb696dbb8a719701c8d666aacde82bc2454583a596f791a5
-size 1275
+worker_id,paid,task_name,batch_name,unit_id,ip_address,time_submit,time_submit_parsed
+A11Y63SZ5XIO13,True,ProgettoSocial,socialcomputing,unit_13,162.247.74.213,"Tue, 16 Jan 2024 16:07:50 GMT",2024-01-16 16:07:50 00:00
+A12BAB3WKXPE18,True,ProgettoSocial,socialcomputing,unit_12,37.162.45.248,"Tue, 16 Jan 2024 15:43:28 GMT",2024-01-16 15:43:28 00:00
+A1E1R8IG1MHWJB,True,ProgettoSocial,socialcomputing,unit_5,79.16.7.78,"Tue, 16 Jan 2024 15:07:03 GMT",2024-01-16 15:07:03 00:00
+A2OUE4SFMS3JC1,True,ProgettoSocial,socialcomputing,unit_7,2a09:bac2:41c4:282::40:3b,"Mon, 15 Jan 2024 14:39:09 GMT",2024-01-15 14:39:09 00:00
+A364H7U9O2GPP8,True,ProgettoSocial,socialcomputing,unit_8,195.231.102.23,"Mon, 15 Jan 2024 15:45:17 GMT",2024-01-15 15:45:17 00:00
+A394QKKWXBAV95,True,ProgettoSocial,socialcomputing,unit_0,2a0e:410:d9f7:0:f4ac:5fa9:e066:4bc9,"Tue, 16 Jan 2024 10:12:47 GMT",2024-01-16 10:12:47 00:00
+A3ATQJBTE9UGYO,True,ProgettoSocial,socialcomputing,unit_6,109.54.187.69,"Mon, 15 Jan 2024 14:32:42 GMT",2024-01-15 14:32:42 00:00
+A3E48QYD5WGHXT,True,ProgettoSocial,socialcomputing,unit_9,151.68.79.14,"Mon, 15 Jan 2024 16:07:48 GMT",2024-01-15 16:07:48 00:00
+A3PL49AYJQ0PWD,True,ProgettoSocial,socialcomputing,unit_2,2.234.152.237,"Mon, 15 Jan 2024 18:18:49 GMT",2024-01-15 18:18:49 00:00
+A90OEY9RMHSSW,True,ProgettoSocial,socialcomputing,unit_1,212.24.13.249,"Mon, 15 Jan 2024 19:40:36 GMT",2024-01-15 19:40:36 00:00
+AA9MSN44RNHQB,True,ProgettoSocial,socialcomputing,unit_10,79.45.234.174,"Mon, 15 Jan 2024 16:11:35 GMT",2024-01-15 16:11:35 00:00
+ACWRCR0KHTY69,True,ProgettoSocial,socialcomputing,unit_11,95.229.67.9,"Mon, 15 Jan 2024 16:41:21 GMT",2024-01-15 16:41:21 00:00
+ALZDBSHNJHLYX,True,ProgettoSocial,socialcomputing,unit_3,176.107.158.82,"Mon, 15 Jan 2024 20:12:30 GMT",2024-01-15 20:12:30 00:00
+BIW8TTGRFCE0ZA,False,ProgettoSocial,socialcomputing,unit_4,95.233.3.10,"Tue, 16 Jan 2024 17:01:03 GMT",2024-01-16 17:01:03 00:00
